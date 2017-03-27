@@ -12,6 +12,6 @@
 以下内容是本人在大二下针对《嵌入式软件设计》的归纳总结和个人体会。
 
 [嵌入式软件设计(1)--绪论](./EmbeddedSystem/embedded_software_design/introduction.md)      
-[嵌入式软件设计(2)--ARM体系结构](./EmbeddedSystem/embedded_software_design/ARM_architecture.md)      
- 嵌入式软件设计(1)--ARM指令集   
+[嵌入式软件设计(2)--ARM体系结构](./EmbeddedSystem/embedded_software_design/ARM_architecture.md)          
+ 嵌入式软件设计(1)--ARM指令集       
 [嵌入式软件设计(4)--ARM程序设计](./EmbeddedSystem/embedded_software_design/ARM_programming.md)      
