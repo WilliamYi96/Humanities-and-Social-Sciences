@@ -1,7 +1,9 @@
 # 哲学
 ## 西方哲学简史
 [基本情况说明](./Philosophy/a_brief_history_of_western_philosophy/README.md)      
-[西方哲学简史(1)--希腊哲学的精神与问题](./Philosophy/a_brief_history_of_western_philosophy/the_spirit_and_problem_of_Greek_philosophy.md)
+[西方哲学简史(1)--希腊哲学的精神与问题](./Philosophy/a_brief_history_of_western_philosophy/the_spirit_and_problem_of_Greek_philosophy.md)             
+
+----------------------------------------
 
 # 数据库系统
 ## 数据库系统原理
@@ -20,3 +22,10 @@
 [嵌入式软件设计(2)--ARM体系结构](./EmbeddedSystem/embedded_software_design/ARM_architecture.md)             
  嵌入式软件设计(1)--ARM指令集       
 [嵌入式软件设计(4)--ARM程序设计](./EmbeddedSystem/embedded_software_design/ARM_programming.md)      
+
+
+----------------------------------------
+
+# Linux系统
+## Linux基础
+。。。。。。。。。。。。。
