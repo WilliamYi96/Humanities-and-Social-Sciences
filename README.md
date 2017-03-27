@@ -6,6 +6,8 @@
 数据库系统原理(3)--关系数据库语言SQL         
 [数据库系统原理(4)--数据依赖与关系模式规范化](./DataBase/principle_of_database/data_dependence_and_relationship_pattern_normalization.md)    
 
+----------------------------------------
+
 # 嵌入式系统
 ## 嵌入式软件设计
 [基本情况说明](./EmbeddedSystem/embedded_software_design/README.md)                       
