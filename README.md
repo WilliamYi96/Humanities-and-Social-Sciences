@@ -2,7 +2,7 @@
 ## 数据库系统原理
 以下内容是本人在大二下针对《数据库系统原理》的归纳总结与个人体会。
 
-[数据库系统原理1]()
+[数据库系统原理1](./DataBase/Principle of Database/Introduction.md)
 
 [数据库系统原理1--绪论](./DataBase/Principle of Database/Introduction.md)
 
