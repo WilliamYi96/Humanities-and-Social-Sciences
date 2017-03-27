@@ -1,3 +1,8 @@
+# 哲学
+## 西方哲学简史
+[基本情况说明](./Philosophy/a_brief_history_of_western_philosophy/README.md)      
+[西方哲学简史(1)--希腊哲学的精神与问题](./Philosophy/a_brief_history_of_western_philosophy/the_spirit_and_problem_of_Greek_philosophy.md)
+
 # 数据库系统
 ## 数据库系统原理
 [基本情况说明](./DataBase/principle_of_database/README.md)                 
