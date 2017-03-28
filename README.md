@@ -3,8 +3,9 @@
 [基本情况说明](./Philosophy/a_brief_history_of_western_philosophy/README.md)      
 [西方哲学简史(1)--希腊哲学的精神与问题](./Philosophy/a_brief_history_of_western_philosophy/the_spirit_and_problem_of_Greek_philosophy.md)     
 
-## 马克思主义基本原理
+## 马克思主义基本原理    
 [辩证的肯定与否定与形而上学的肯定与否定](./Philosophy/the_basic_principle_of_marxism/affirmative_and_negative.md)
+
 ----------------------------------------
 
 # 数据库系统
