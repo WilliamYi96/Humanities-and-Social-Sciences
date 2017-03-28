@@ -7,6 +7,13 @@
 [辩证的肯定与否定与形而上学的肯定与否定](./Philosophy/the_basic_principle_of_marxism/affirmative_and_negative.md)
 
 ----------------------------------------
+# 社会学
+## 社会学概论
+
+[基本情况说明](./Sociology/introdcution_to_sociology/README.md)      
+[导论：什么是社会学](./Sociology/introdcution_to_sociology/introdution.md)      未完待续。。。
+
+----------------------------------------
 
 # 数据库系统
 ## 数据库系统原理
