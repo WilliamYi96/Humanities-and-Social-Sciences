@@ -15,7 +15,7 @@
 [数据库系统原理(2)--关系模型](./DataBase/principle_of_database/relationship_model.md)    
 数据库系统原理(3)--关系数据库语言SQL         
 [数据库系统原理(4)--数据依赖与关系模式规范化](./DataBase/principle_of_database/data_dependence_and_relationship_pattern_normalization.md)       
-[数据库系统原理(5)--数据库设计](./DataBase/principle_of_database/database_design.md)
+[数据库系统原理(5)--数据库设计](./DataBase/principle_of_database/database_design.md)   未完待续。。。      
 
 ----------------------------------------
 
