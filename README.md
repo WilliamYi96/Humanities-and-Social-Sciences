@@ -12,8 +12,12 @@
 
 [基本情况说明](./Sociology/introdcution_to_sociology/README.md)      
 [导论：什么是社会学](./Sociology/introdcution_to_sociology/introdution.md)      
-[人的社会化](./Sociology/introdcution_to_sociology/socialization.md)                    
+[人的社会化](./Sociology/introdcution_to_sociology/socialization.md)     
+
+
        未完待续。。。。
+       
+       
 ----------------------------------------
 
 # 数据库系统
