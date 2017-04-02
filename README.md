@@ -13,9 +13,7 @@
 [基本情况说明](./Sociology/introdcution_to_sociology/README.md)      
 [导论：什么是社会学](./Sociology/introdcution_to_sociology/introdution.md)      
 [人的社会化](./Sociology/introdcution_to_sociology/socialization.md)     
-
-
-       未完待续。。。。
+[社会角色与社会互动](./Sociology/introdcution_to_sociology/social_roles_and_social_interaction.md)
        
        
 ----------------------------------------
@@ -44,4 +42,4 @@
 
 # Linux系统
 ## Linux基础
-。。。。。。。。。。。。。 
+
