@@ -32,7 +32,7 @@
 # 机器学习基本工具与理论(MACHINE LEARNING THEORY AND TOOLS)
 ## 基础理论
 ## TensorFlow
-[Berief Introduction to TensorFlow](./Machine_Learning_Theory_and_Tools/Tensorflow/introduction_to_tensorflow.md)
+[Berief Introduction to TensorFlow](./Machine_Learning_Theory_and_Tools/Tensorflow/introduction_to_tensorflow.md)        
 [MNIST for ML Beginners](./Machine_Learning_Theory_and_Tools/Tensorflow/MNIST_for_ML_beginners.md)
 
 ## 深度学习(DEEP LEARNING)
