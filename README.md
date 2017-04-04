@@ -32,6 +32,8 @@
 # 机器学习基本工具与理论(MACHINE LEARNING THEORY AND TOOLS)
 ## 基础理论
 ## TensorFlow
+[TensorFlow入门](./Machine_Learning_Theory_and_Tools/Tensorflow/introduction_to_tensorflow.md)
+
 ## 深度学习(DEEP LEARNING)
 
 ## 迁移学习(TRANSFER LEARNING)
