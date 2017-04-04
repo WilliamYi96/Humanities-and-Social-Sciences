@@ -14,7 +14,8 @@
 [导论：什么是社会学](./Sociology/introdcution_to_sociology/introduction.md)      
 [人的社会化](./Sociology/introdcution_to_sociology/socialization.md)     
 [社会角色与社会互动](./Sociology/introdcution_to_sociology/social_roles_and_social_interaction.md)        
-[性别、婚姻、家庭](./Sociology/introdcution_to_sociology/gender_marriage_family.md)
+[性别、婚姻、家庭](./Sociology/introdcution_to_sociology/gender_marriage_family.md)        
+[社会群体与社会组织](./Sociology/introdcution_to_sociology/social_group_and_social_organization.md)
        
        
 ----------------------------------------
