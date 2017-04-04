@@ -128,3 +128,5 @@ softmax进行图形化表示则是如下形式：
 > print sess.run(accuracy, feed_dict={x: mnist.test.images, y_: mnist.test.labels})
 
 虽然该模型的结果只有91%，不太好，但是主要是完成的是对TS运行全程有了一个深入的了解。
+
+
