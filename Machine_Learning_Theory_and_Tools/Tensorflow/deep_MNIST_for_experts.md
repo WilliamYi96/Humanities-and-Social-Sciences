@@ -16,3 +16,15 @@ def bias_variable(shape):
   initial = tf.constant(0.1, shape=shape)    
   return tf.Variable(initial)    
 ```
+
+## 卷积和池化
+我们将卷积层和池化层定义为如下函数：
+
+```python
+def conv2d(x, W):
+  return tf.nn.conv2d(x, W, strides=[1, 1, 1, 1], padding='SAME')
+
+def max_pool_2x2(x):
+  return tf.nn.max_pool(x, ksize=[1, 2, 2, 1],
+                        strides=[1, 2, 2, 1], padding='SAME')
+```
