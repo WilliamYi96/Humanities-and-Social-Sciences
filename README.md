@@ -9,7 +9,9 @@
 [数据库系统原理(2)--关系模型](./DataBase/principle_of_database/relationship_model.md)    
 数据库系统原理(3)--关系数据库语言SQL         
 [数据库系统原理(4)--数据依赖与关系模式规范化](./DataBase/principle_of_database/data_dependence_and_relationship_pattern_normalization.md)       
-[数据库系统原理(5)--数据库设计](./DataBase/principle_of_database/database_design.md)   未完待续。。。      
+[数据库系统原理(5)--数据库设计](./DataBase/principle_of_database/database_design.md)         
+[数据库系统原理(7)--查询处理与查询优化](./DataBase/principle_of_database/query_processing_and_optimization.md)      
+
 
 --------------------------------------------
 
@@ -33,7 +35,7 @@
 ## 基础理论
 ## TensorFlow
 [Berief Introduction to TensorFlow](./Machine_Learning_Theory_and_Tools/Tensorflow/introduction_to_tensorflow.md)        
-[MNIST for ML Beginners](./Machine_Learning_Theory_and_Tools/Tensorflow/MNIST_for_ML_beginners.md)
+[MNIST for ML Beginners$Experts](./Machine_Learning_Theory_and_Tools/Tensorflow/MNIST_for_ML_beginners.md)
 
 ## 深度学习(DEEP LEARNING)
 
