@@ -23,12 +23,12 @@ On the one hand, often an accurate explanation of the caused underlying some for
 On the other hand, different understanding of a test result and its explanation may leads to different ideas about what to predict.
 
 # The Evolution of Modern Psychology
-## What are the central concerns of the structuralist and functionalist approaches
+## Central concerns of the structuralist and functionalist approaches
 
-## What conclusions did Helen Thompson Wooley draw about differences between the sexes?
+## Differences between the sexes drawn by Helen Thompson Wooley
 
 ## How do the psychodynamic and behaviorist perspectives conceptualize the force that shape people's actions?
 
-## What is the purpose of cognitive neuroscience?
+## The purpose of cognitive neuroscience?
 
 ## How do the evolutionay perspective and sociocultural perspective complement each other?
