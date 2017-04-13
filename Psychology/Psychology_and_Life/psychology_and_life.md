@@ -31,4 +31,4 @@ On the other hand, different understanding of a test result and its explanation 
 
 ## The purpose of cognitive neuroscience?
 
-## How do the evolutionay perspective and sociocultural perspective complement each other?
+## How do the evolutionay perspective and sociocultural perspective complement each other? 
