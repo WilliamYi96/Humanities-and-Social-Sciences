@@ -60,6 +60,17 @@
 
 ----------------------------------------
 
+## 近代哲学史
+[基本情况说明](./Philosophy/the_History_of_Modern_Philosophy/README.md)          
+[笛卡尔](./Philosophy/the_History_of_Modern_Philosophy/Descartes.md)
+
+# 心理学(PSYCHOLOGY)
+## 心理学与生活
+[基本情况说明](./Psychology/Psychology_and_Life/README.md)      
+[导论](./Psychology/Psychology_and_Life/psychology_and_life.md)     
+
+------------------------------------------
+
 # 社会学(SOCIOLOGY)
 ## 社会学概论
 
@@ -69,7 +80,7 @@
 [社会角色与社会互动](./Sociology/introdcution_to_sociology/social_roles_and_social_interaction.md)        
 [性别、婚姻、家庭](./Sociology/introdcution_to_sociology/gender_marriage_family.md)        
 [社会群体与社会组织](./Sociology/introdcution_to_sociology/social_group_and_social_organization.md)
-       
+[社会网络](./Sociology/introdcution_to_sociology/social_network.md) 
        
 ----------------------------------------
 
