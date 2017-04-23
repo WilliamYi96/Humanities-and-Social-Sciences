@@ -46,6 +46,13 @@
 
 ------------------------------------------
 
+# 数学建模(MATH MODELING)
+## 数学建模
+[基本情况说明](./Math_Modeling/Math_Modeling/README.md)                
+[数学建模导论](./Math_Modeling/Math_Modeling/Introduction.md)                      
+
+-------------------------------------------
+
 # 自然语言处理(NATURAL LANGUAGE PROCESSING)
 
 ------------------------------------------
