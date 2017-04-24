@@ -49,7 +49,10 @@
 # 数学建模(MATH MODELING)
 ## 数学建模
 [基本情况说明](./Math_Modeling/Math_Modeling/README.md)                
-[数学建模导论](./Math_Modeling/Math_Modeling/Introduction.md)                      
+[数学建模导论](./Math_Modeling/Math_Modeling/Introduction.md)                                   
+[数学的巧妙运用](./Math_Modeling/Math_Modeling/数学的巧妙运用.md)                              
+[微积分的应用](./Math_Modeling/Math_Modeling/微积分的应用.md)                                          
+[计算机仿真导论](./Math_Modeling/Math_Modeling/计算机仿真简介.md)
 
 -------------------------------------------
 
@@ -68,7 +71,7 @@
 ----------------------------------------
 
 ## 近代哲学史
-[基本情况说明](./Philosophy/the_History_of_Modern_Philosophy/README.md)                                
+[基本情况说明](./Philosophy/the_History_of_Modern_Philosophy/README.md)                               
 [笛卡尔](./Philosophy/the_History_of_Modern_Philosophy/Descartes.md)
 
 # 心理学(PSYCHOLOGY)
@@ -91,4 +94,4 @@
        
 ----------------------------------------
 
-# 语音识别(SPEAK RECOGNITION)   
+# 语音识别(SPEAK RECOGNITION)      
