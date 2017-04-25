@@ -90,7 +90,8 @@
 [社会角色与社会互动](./Sociology/introdcution_to_sociology/social_roles_and_social_interaction.md)        
 [性别、婚姻、家庭](./Sociology/introdcution_to_sociology/gender_marriage_family.md)        
 [社会群体与社会组织](./Sociology/introdcution_to_sociology/social_group_and_social_organization.md)                          
-[社会网络](./Sociology/introdcution_to_sociology/social_network.md) 
+[社会网络](./Sociology/introdcution_to_sociology/social_network.md)                               
+[社会分层与社会流动](./Sociology/introdcution_to_sociology/Social_Stratification_and_Social_Mobility.md)
        
 ----------------------------------------
 
