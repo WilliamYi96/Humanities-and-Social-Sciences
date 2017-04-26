@@ -93,7 +93,7 @@
 
 [社会变迁与现代化](./Sociology/introdcution_to_sociology/social_change_and_modernization.md)                
 
-[人口与老龄化](./Sociology/introduction_to_sociology/population_and_aging.md)
+[人口与老龄化](./Sociology/introdcution_to_sociology/population_and_aging.md)
 
 
 
