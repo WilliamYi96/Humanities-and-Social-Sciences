@@ -12,7 +12,6 @@
 [数据库系统原理(5)--数据库设计](./DataBase/principle_of_database/database_design.md)         
 [数据库系统原理(7)--查询处理与查询优化](./DataBase/principle_of_database/query_processing_and_optimization.md)      
 
-
 --------------------------------------------
 
 # 嵌入式系统(EMBEDDED SYSTEM)
@@ -22,7 +21,6 @@
 [嵌入式软件设计(2)--ARM体系结构](./EmbeddedSystem/embedded_software_design/ARM_architecture.md)             
  嵌入式软件设计(1)--ARM指令集       
 [嵌入式软件设计(4)--ARM程序设计](./EmbeddedSystem/embedded_software_design/ARM_programming.md)      
-
 
 ----------------------------------------
 
@@ -91,8 +89,10 @@
 [性别、婚姻、家庭](./Sociology/introdcution_to_sociology/gender_marriage_family.md)        
 [社会群体与社会组织](./Sociology/introdcution_to_sociology/social_group_and_social_organization.md)                          
 [社会网络](./Sociology/introdcution_to_sociology/social_network.md)                               
-[社会分层与社会流动](./Sociology/introdcution_to_sociology/Social_Stratification_and_Social_Mobility.md)
-       
+[社会分层与社会流动](./Sociology/introdcution_to_sociology/Social_Stratification_and_Social_Mobility.md)                                                         
+
+[社会变迁与现代化](./Sociology/introdcution_to_sociology/social_change_and_modernization.md)       
+
 ----------------------------------------
 
 # 语音识别(SPEAK RECOGNITION)      
