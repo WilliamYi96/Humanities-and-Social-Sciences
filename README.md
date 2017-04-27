@@ -64,7 +64,8 @@
 [西方哲学简史(1)--希腊哲学的精神与问题](./Philosophy/a_brief_history_of_western_philosophy/the_spirit_and_problem_of_Greek_philosophy.md)     
 
 ## 马克思主义基本原理    
-[辩证的肯定与否定与形而上学的肯定与否定](./Philosophy/the_basic_principle_of_marxism/affirmative_and_negative.md)
+[辩证的肯定与否定与形而上学的肯定与否定](./Philosophy/the_basic_principle_of_marxism/affirmative_and_negative.md)               
+[实践中建立的社会结构及其运演](./Philoosphy/the_basic_principle_of_marxism/实践中建立的社会结构及其运演.md)
 
 ----------------------------------------
 
@@ -89,12 +90,10 @@
 [性别、婚姻、家庭](./Sociology/introdcution_to_sociology/gender_marriage_family.md)        
 [社会群体与社会组织](./Sociology/introdcution_to_sociology/social_group_and_social_organization.md)                          
 [社会网络](./Sociology/introdcution_to_sociology/social_network.md)                               
-[社会分层与社会流动](./Sociology/introdcution_to_sociology/Social_Stratification_and_Social_Mobility.md)                                                         
-
+[社会分层与社会流动](./Sociology/introdcution_to_sociology/Social_Stratification_and_Social_Mobility.md)                           
 [社会变迁与现代化](./Sociology/introdcution_to_sociology/social_change_and_modernization.md)                
-
-[人口与老龄化](./Sociology/introdcution_to_sociology/population_and_aging.md)
-
+[人口与老龄化](./Sociology/introdcution_to_sociology/population_and_aging.md)                                          
+[越轨与社会控制](./Sociology/introdcution_to_sociology/deviance_and_social_control.md)
 
 
 -------------------------------------------------------
