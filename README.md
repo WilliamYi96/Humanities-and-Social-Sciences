@@ -20,7 +20,7 @@
 [嵌入式软件设计(1)--绪论](./EmbeddedSystem/embedded_software_design/introduction.md)      
 [嵌入式软件设计(2)--ARM体系结构](./EmbeddedSystem/embedded_software_design/ARM_architecture.md)             
  嵌入式软件设计(1)--ARM指令集       
-[嵌入式软件设计(4)--ARM程序设计](./EmbeddedSystem/embedded_software_design/ARM_programming.md)      
+[嵌入式软件设计(4)--ARM程序设计](./EmbeddedSystem/embedded_software_design/ARM_programming.md)                                             
 [嵌入式实验(1)(主讲)](./EmbeddedSystem/embedded_software_design/串口通信与键盘控制.pptx)
 
 
