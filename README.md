@@ -54,6 +54,8 @@
 [微积分的应用](./Math_Modeling/Math_Modeling/微积分的应用.md)                                          
 [计算机仿真导论](./Math_Modeling/Math_Modeling/计算机仿真简介.md)
 
+[数学建模复习情况记录](./Math_Modeling/Math_Modeling/数学建模复习情况记录.md)                         
+
 -------------------------------------------
 
 # 自然语言处理(NATURAL LANGUAGE PROCESSING)
