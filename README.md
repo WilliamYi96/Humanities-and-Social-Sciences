@@ -55,6 +55,8 @@
 [计算机仿真导论](./Math_Modeling/Math_Modeling/计算机仿真简介.md)
 
 [数学建模复习情况记录](./Math_Modeling/Math_Modeling/数学建模复习情况记录.md)                         
+数学建模实验报告[pdf](./Math_Modeling/Math_Modeling/数学建模实验报告.pdf), [tex](./Math_Modeling/Math_Modeling/数学建模实验报告.tex)            
+
 
 -------------------------------------------
 
