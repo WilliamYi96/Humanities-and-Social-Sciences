@@ -29,22 +29,7 @@
 # Linux系统(LINUX)
 ## Linux基础
 
-----------------------------------------
-
-# 机器学习基本工具与理论(MACHINE LEARNING THEORY AND TOOLS)
-## 基础理论
-## TensorFlow
-[Berief Introduction to TensorFlow](./Machine_Learning_Theory_and_Tools/Tensorflow/introduction_to_tensorflow.md)        
-[MNIST for ML Beginners$Experts](./Machine_Learning_Theory_and_Tools/Tensorflow/MNIST_for_ML_beginners.md)
-
-## 深度学习(DEEP LEARNING)
-
-## 迁移学习(TRANSFER LEARNING)
-
-## 模仿学习(IMITATION LEARNING)
-## 增强学习(REINFORCEMENT LEARNING)
-
-------------------------------------------
+---------------------------------------
 
 # 数学建模(MATH MODELING)
 ## 数学建模
@@ -56,7 +41,6 @@
 
 [数学建模复习情况记录](./Math_Modeling/Math_Modeling/数学建模复习情况记录.md)                         
 数学建模实验报告[pdf](./Math_Modeling/Math_Modeling/数学建模实验报告.pdf), [tex](./Math_Modeling/Math_Modeling/数学建模实验报告.tex)            
-
 
 -------------------------------------------
 
