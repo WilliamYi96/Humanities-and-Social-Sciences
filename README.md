@@ -34,5 +34,5 @@
 [社会变迁与现代化](./Sociology/introdcution_to_sociology/social_change_and_modernization.md)                
 [人口与老龄化](./Sociology/introdcution_to_sociology/population_and_aging.md)                                          
 [越轨与社会控制](./Sociology/introdcution_to_sociology/deviance_and_social_control.md)                     
-社会学概论期末论文 [pdf](./Sociology/introdcution_to_sociology/fianl_paper.pdf)  [tex](./Sociology/introdcution_to_sociology/final_paper.tex)
+社会学概论期末论文 [pdf](./Sociology/introdcution_to_sociology/中国社会变革新形势下的信任缺失与信任重建.pdf)  [tex](./Sociology/introdcution_to_sociology/中国社会变革新形势下的信任缺失与信任重建.tex)
 
